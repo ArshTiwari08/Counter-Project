@@ -1,1 +1,1 @@
-#Simple Counter Project
+# Counter Project
